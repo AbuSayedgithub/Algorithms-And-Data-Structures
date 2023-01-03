@@ -5,6 +5,6 @@ function maxLog(n){
         console.log(i)
     }
 }
-maxLog(10)
+maxLog(10)//you can change as yo want.
 
-//Big o (1). because it is not depands on N. that you ganna put.
+//Big o (1). because it is not depands on N.
