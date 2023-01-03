@@ -9,6 +9,6 @@ function sum(arr){
     return total  //here it return off sum of array
 }
 
-console.log(sum([23, 4, 6]))
+console.log(sum([23, 4, 6])) //you can give as much as you can 
 //Big o(1) because it comes with single one with basis of output
 
