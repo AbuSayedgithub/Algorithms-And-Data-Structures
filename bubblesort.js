@@ -16,4 +16,4 @@ function bubblesort(arr) {
     return arr
 }
 
-bubblesort([2, 53, 23, 1, -3])
+console.log(bubblesort([2, 53, 23, 1, -3]))
